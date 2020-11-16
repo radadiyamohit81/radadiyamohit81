@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science Project
 - 🤔 I’m looking for internship opportunity
 - 💬 Ask me anything related to Data Science Field
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohit-radadiya-55b7a7149/) | [Twitter](https://twitter.com/radadiyamohit90) | [Medium](https://medium.com/@radadiyamohit)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohit-radadiya-55b7a7149/) | [Twitter](https://twitter.com/radadiyamohit90)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=radadiyamohit81&show_icons=true&hide_border=true)
